@@ -16,3 +16,23 @@ When looking at the total summary it appears the variance does not exceed 100 po
 
 ![Total_Summary](images/total_summary.png)
 ![Lot_Summary](images/lot_summary.png)
+
+## T-Tests on Suspension Coils
+
+- All Sites
+![Plevel All Sites](images/plevel_all_sites.png)
+Assuming our significance level is the common 0.05 percent, our p-value of .057 is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar. Because the p-value is so close, we should do t-tests on each site.
+
+- Lot 1
+![Plevel Lot 1](images/Lot1.png)
+Assuming our significance level is the common 0.05 percent, our p-value of .998 is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+- Lot 2
+![Plevel Lot 2](images/Lot2.png)
+Assuming our significance level is the common 0.05 percent, our p-value of .612 is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+- Lot 3
+![Plevel Lot 3](images/Lot3.png)
+Assuming our significance level is the common 0.05 percent, our p-value of .0397 is not above our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+## Study Design: MechaCar vs Competition
