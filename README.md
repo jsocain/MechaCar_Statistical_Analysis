@@ -36,3 +36,13 @@ Assuming our significance level is the common 0.05 percent, our p-value of .612 
 Assuming our significance level is the common 0.05 percent, our p-value of .0397 is not above our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
 ## Study Design: MechaCar vs Competition
+
+I propose a statistical study that can quantify how the MechaCar performs against the competition. 
+
+- We should compare metrics that will be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+-The null hypothesis is that the MechaCar does not exceed in most metrics when compared to the competition. The alternative hypothesis is that the MechaCar does exceed in most metrics when compared to the competition.
+
+- I would run a t-test of the means to see if there is a statistical difference between the mean of the MechaCar distribution and the mean of the competition distribution across all metrics.
+
+We would need to obtain the metric ratings for MechaCar and the competion vehichiles.
